@@ -1,0 +1,8 @@
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\bin\Debug\MyStatSelenium.exe.config
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\bin\Debug\MyStatSelenium.exe
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\bin\Debug\MyStatSelenium.pdb
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\bin\Debug\WebDriver.dll
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\obj\Debug\MyStatSelenium.csproj.AssemblyReference.cache
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\obj\Debug\MyStatSelenium.csproj.CoreCompileInputs.cache
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\obj\Debug\MyStatSelenium.exe
+D:\Ruslan\Тестирование\ConsoleApp1\MyStatSelenium\obj\Debug\MyStatSelenium.pdb

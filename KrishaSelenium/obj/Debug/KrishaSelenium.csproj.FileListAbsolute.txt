@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.exe.config
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.exe
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.pdb
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.exe
+C:\Users\User\source\repos\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.pdb
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.exe.config
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.exe
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\bin\Debug\KrishaSelenium.pdb
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\bin\Debug\WebDriver.dll
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.csproj.AssemblyReference.cache
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.csproj.CoreCompileInputs.cache
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.exe
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaSelenium\obj\Debug\KrishaSelenium.pdb

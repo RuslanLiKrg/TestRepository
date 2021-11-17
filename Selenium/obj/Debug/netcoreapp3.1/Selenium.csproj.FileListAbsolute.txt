@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.exe
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.deps.json
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Selenium.pdb
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ConsoleApp1\Selenium\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.dll
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.pdb
+C:\Users\User\source\repos\ConsoleApp1\Selenium\obj\Debug\netcoreapp3.1\Selenium.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\bin\Debug\HomeEquipment.exe.config
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\bin\Debug\HomeEquipment.exe
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\bin\Debug\HomeEquipment.pdb
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\obj\Debug\HomeEquipment.csproj.AssemblyReference.cache
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\obj\Debug\HomeEquipment.csproj.CoreCompileInputs.cache
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\obj\Debug\HomeEquipment.exe
+D:\Ruslan\Тестирование\ConsoleApp1\HomeQuicment\obj\Debug\HomeEquipment.pdb

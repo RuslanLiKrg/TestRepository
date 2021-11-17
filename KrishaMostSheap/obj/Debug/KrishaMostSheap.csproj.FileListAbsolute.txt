@@ -1,0 +1,8 @@
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\bin\Debug\KrishaMostSheap.exe.config
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\bin\Debug\KrishaMostSheap.exe
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\bin\Debug\KrishaMostSheap.pdb
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\bin\Debug\WebDriver.dll
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\obj\Debug\KrishaMostSheap.csproj.AssemblyReference.cache
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\obj\Debug\KrishaMostSheap.csproj.CoreCompileInputs.cache
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\obj\Debug\KrishaMostSheap.exe
+D:\Ruslan\Тестирование\ConsoleApp1\KrishaMostSheap\obj\Debug\KrishaMostSheap.pdb

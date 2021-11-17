@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\bin\Debug\seleniumNet.exe.config
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\bin\Debug\seleniumNet.exe
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\bin\Debug\seleniumNet.pdb
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\obj\Debug\seleniumNet.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\obj\Debug\seleniumNet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\obj\Debug\seleniumNet.exe
+C:\Users\User\source\repos\ConsoleApp1\seleniumNet\obj\Debug\seleniumNet.pdb
